@@ -4,7 +4,6 @@ A project to understand Tempe's COVID wastewater data.
 ## Installation
 ```bash
 git clone https://github.com/mahaloz/tempe-covid-analysis.git
-cd tempe-covid-analysis
 python3 pip install -e ./tempe-covid-analysis
 ```
 
